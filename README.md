@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ishukeshri2712&label=Profile%20views&color=0e75b6&style=flat" alt="ishukeshri2712" /> </p>
 
-- 🌱 I’m currently learning **Devops And Cloud**
+- 🌱 I’m currently learning **DevOps And Cloud**
 
-- 💬 Ask me about **Software Development and Devops**
+- 💬 Ask me about **Software Development and DevOps**
 
 - 📫 How to reach me **ishukeshri27@outlook.com**
 
