@@ -11,7 +11,7 @@
   
 - 👉 Another Repo Link **https://github.com/ishukeshri27**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/19LOmFJjnhmRQOjNFCodE7vky_X7fkzCN/view?usp=drive_link](https://drive.google.com/file/d/19LOmFJjnhmRQOjNFCodE7vky_X7fkzCN/view?usp=drive_link)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1LJPB-tk6otPxFL1VJgOiPF6YEpWaDG8n/view?usp=drive_link](https://drive.google.com/file/d/1LJPB-tk6otPxFL1VJgOiPF6YEpWaDG8n/view?usp=drive_link)
 
 - ⚡ Fun fact **I love exploring new things 😀**
 
